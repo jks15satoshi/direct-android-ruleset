@@ -46,7 +46,6 @@ payload:
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.damai #大麦
   - PROCESS-NAME,cn.dict.android.pro #海词词典
-  - PROCESS-NAME,cn.dxckeji.xinliao #心聊视频聊天交友
   - PROCESS-NAME,cn.dxy.idxyer #丁香园
   - PROCESS-NAME,cn.dxy.medicinehelper #用药助手
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
@@ -246,7 +245,6 @@ payload:
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cdcd.milv #觅侣-语音视频恋爱交友
-  - PROCESS-NAME,com.cdjsyq.xzj #Sweetly小组件
   - PROCESS-NAME,com.cdtv.app #看度
   - PROCESS-NAME,com.ceic.app #地震速报
   - PROCESS-NAME,com.chan.cwallpaper #图凌
@@ -507,6 +505,7 @@ payload:
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
+  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingzhou #荆州社区
   - PROCESS-NAME,com.jinying.mobile #金鹰生活

@@ -46,7 +46,6 @@ PROCESS-NAME,cn.com.wiisoft.skin,{{ rule }} # 灵动主题皮肤
 PROCESS-NAME,cn.dahebao,{{ rule }} # 顶端新闻
 PROCESS-NAME,cn.damai,{{ rule }} # 大麦
 PROCESS-NAME,cn.dict.android.pro,{{ rule }} # 海词词典
-PROCESS-NAME,cn.dxckeji.xinliao,{{ rule }} # 心聊视频聊天交友
 PROCESS-NAME,cn.dxy.idxyer,{{ rule }} # 丁香园
 PROCESS-NAME,cn.dxy.medicinehelper,{{ rule }} # 用药助手
 PROCESS-NAME,cn.eclicks.drivingtest,{{ rule }} # 车轮驾考通
@@ -246,7 +245,6 @@ PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器
 PROCESS-NAME,com.cbnweekly,{{ rule }} # 第一财经杂志
 PROCESS-NAME,com.ccgs.sms,{{ rule }} # 短信群发助手
 PROCESS-NAME,com.cdcd.milv,{{ rule }} # 觅侣-语音视频恋爱交友
-PROCESS-NAME,com.cdjsyq.xzj,{{ rule }} # Sweetly小组件
 PROCESS-NAME,com.cdtv.app,{{ rule }} # 看度
 PROCESS-NAME,com.ceic.app,{{ rule }} # 地震速报
 PROCESS-NAME,com.chan.cwallpaper,{{ rule }} # 图凌
@@ -507,6 +505,7 @@ PROCESS-NAME,com.jiayuan,{{ rule }} # 世纪佳缘
 PROCESS-NAME,com.jie.lockscreen,{{ rule }} # 锁屏大全
 PROCESS-NAME,com.jiemian.news,{{ rule }} # 界面新闻
 PROCESS-NAME,com.jifen.qukan,{{ rule }} # 趣头条
+PROCESS-NAME,com.jimi.idphoto,{{ rule }} # 在线证件照
 PROCESS-NAME,com.jingdong.app.mall,{{ rule }} # 京东
 PROCESS-NAME,com.jingzhou,{{ rule }} # 荆州社区
 PROCESS-NAME,com.jinying.mobile,{{ rule }} # 金鹰生活
